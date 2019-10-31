@@ -16,6 +16,26 @@ h2 {
 p {
     font-size: 1.5rem;
 }
+#img1 {
+    width: 30%;
+    height: auto;
+    border: 1px black solid;
+    outline: 1px violet solid;
+    margin-top: 25px;
+
+}
+#img2 {
+    width: 31%;
+    height: auto;
+    border: 1px black solid;
+    outline: 1px violet solid;
+}
+#img3 {
+    width: 33%;
+    height: auto;
+    border: 1px black solid;
+    outline: 2px violet solid;
+}
 footer {
     text-align: center;
 }
