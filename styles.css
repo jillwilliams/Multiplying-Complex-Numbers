@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(purple, black);
+    margin: 15px 35px 45px 35px;
+    color: white;
+    letter-spacing: 3px;
+    font-family: Shadows Into Light, cursive;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.5rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+p {
+    font-size: 1.5rem;
+}
+footer {
+    text-align: center;
+}
