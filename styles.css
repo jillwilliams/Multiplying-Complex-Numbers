@@ -36,6 +36,11 @@ p {
     border: 1px black solid;
     outline: 2px violet solid;
 }
+iframe {
+    margin: 15px 33%;
+    border: 1px black solid;
+    outline: 2px violet solid;
+}
 footer {
     text-align: center;
 }
